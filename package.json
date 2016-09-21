@@ -1,0 +1,43 @@
+{
+  "name": "grow-search-results-themelet",
+  "version": "1.0.0",
+  "keywords": [
+    "liferay-theme"
+  ],
+  "liferayTheme": {
+    "screenshot": "",
+    "themelet": true,
+    "version": "7.0"
+  },
+  "publishConfig": {
+    "tag": "7_0_x"
+  },
+  "gitHead": "dcdfcc8d0dc04c3a350246ce47da3756b7a21294",
+  "description": "",
+  "_id": "grow-search-results-themelet@1.0.0",
+  "scripts": {},
+  "_shasum": "e30eb26c135dde9e1525ef8a2fe83052bc9a24ef",
+  "_from": "grow-search-results-themelet@7_0_x",
+  "_npmVersion": "3.5.1",
+  "_nodeVersion": "4.5.0",
+  "_npmUser": {
+    "name": "zsagia",
+    "email": "zsolt.szabo@liferay.com"
+  },
+  "dist": {
+    "shasum": "e30eb26c135dde9e1525ef8a2fe83052bc9a24ef",
+    "tarball": "https://registry.npmjs.org/grow-search-results-themelet/-/grow-search-results-themelet-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "zsagia",
+      "email": "zsolt.szabo@liferay.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/grow-search-results-themelet-1.0.0.tgz_1473867701099_0.20407973625697196"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/grow-search-results-themelet/-/grow-search-results-themelet-1.0.0.tgz"
+}
