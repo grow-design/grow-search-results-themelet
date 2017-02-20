@@ -50,7 +50,7 @@
 	.list-group-item {
 		border-bottom: 1px solid #000;
 
-		&:before {
+		&:after {
 			background-image: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.2), transparent);
 			clear: both;
 			content: " ";
