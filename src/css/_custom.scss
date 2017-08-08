@@ -162,6 +162,10 @@
 
 	#_com_liferay_portal_search_web_portlet_SearchPortlet_facetNavigation {
 		.panel-default {
+			a.text-primary {
+				color: $skincolor;
+			}
+
 			border: none;
 			margin: 0;
 
